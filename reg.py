@@ -1,6 +1,9 @@
 
-
-
+"""
+    Python implementation of reg.exe 
+    
+    Currently, supports QUERY/ADD/DELETE
+"""
 
 
 
